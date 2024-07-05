@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEFCoreOneTableTemperature", "ConsoleAppEFCoreOneTableTemperature\ConsoleAppEFCoreOneTableTemperature.csproj", "{1DA86BDA-2E24-4E7E-B725-069049C0101F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA86BDA-2E24-4E7E-B725-069049C0101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA86BDA-2E24-4E7E-B725-069049C0101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA86BDA-2E24-4E7E-B725-069049C0101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA86BDA-2E24-4E7E-B725-069049C0101F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502FB5FE-387E-4CB5-B104-E4BBBEF42FC5}
+	EndGlobalSection
+EndGlobal
